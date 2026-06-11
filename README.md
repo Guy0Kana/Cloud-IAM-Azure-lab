@@ -14,5 +14,4 @@ Cloud-based Identity and Access Management (IAM) system built on Microsoft Azure
 **GK.Ltd** is a small freelance software development studio with approximately 40 workers. As the company grows, managing users manually becomes increasingly difficult. New employees need accounts, different departments require different access levels, and threats are on the rise.
 To address these challenges, the company owner, Guyo Kana, has decided to implement a centralized Identity and Access Management solution using Microsoft Azure.
 
-## Let's Start!
 
