@@ -1,5 +1,5 @@
-# Cloud-IAM-Azure-lab
-Cloud-based Identity and Access Management (IAM) lab built on Microsoft Azure, featuring Active Directory, user provisioning, group policy management, PowerShell automation, and security hardening.
+# Cloud-IAM-Azure
+Cloud-based Identity and Access Management (IAM) system built on Microsoft Azure, featuring Active Directory, user provisioning, group policy management, PowerShell automation, and security hardening.
 
 ## Objectives:
 - Deploy and manage Windows Server in Microsoft Azure
